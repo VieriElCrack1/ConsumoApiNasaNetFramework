@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cibertec\\Cibertec-5toCiclo\\DSW1\\Practicas\\EjercicioNasaConsumoAPIsRest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13861B06-8467-438E-A870-666338490E45}|EjercicioNasaConsumoAPIsRest\\EjercicioNasaConsumoAPIsRest.csproj|d:\\cibertec\\cibertec-5tociclo\\dsw1\\practicas\\ejercicionasaconsumoapisrest\\ejercicionasaconsumoapisrest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13861B06-8467-438E-A870-666338490E45}|EjercicioNasaConsumoAPIsRest\\EjercicioNasaConsumoAPIsRest.csproj|solutionrelative:ejercicionasaconsumoapisrest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13861B06-8467-438E-A870-666338490E45}|EjercicioNasaConsumoAPIsRest\\EjercicioNasaConsumoAPIsRest.csproj|d:\\cibertec\\cibertec-5tociclo\\dsw1\\practicas\\ejercicionasaconsumoapisrest\\ejercicionasaconsumoapisrest\\views\\planetary\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13861B06-8467-438E-A870-666338490E45}|EjercicioNasaConsumoAPIsRest\\EjercicioNasaConsumoAPIsRest.csproj|solutionrelative:ejercicionasaconsumoapisrest\\views\\planetary\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 301,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Cibertec\\Cibertec-5toCiclo\\DSW1\\Practicas\\EjercicioNasaConsumoAPIsRest\\EjercicioNasaConsumoAPIsRest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EjercicioNasaConsumoAPIsRest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Cibertec\\Cibertec-5toCiclo\\DSW1\\Practicas\\EjercicioNasaConsumoAPIsRest\\EjercicioNasaConsumoAPIsRest\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "EjercicioNasaConsumoAPIsRest\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T17:16:08.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Cibertec\\Cibertec-5toCiclo\\DSW1\\Practicas\\EjercicioNasaConsumoAPIsRest\\EjercicioNasaConsumoAPIsRest\\Views\\Planetary\\Index.cshtml",
+              "RelativeDocumentMoniker": "EjercicioNasaConsumoAPIsRest\\Views\\Planetary\\Index.cshtml",
+              "ToolTip": "D:\\Cibertec\\Cibertec-5toCiclo\\DSW1\\Practicas\\EjercicioNasaConsumoAPIsRest\\EjercicioNasaConsumoAPIsRest\\Views\\Planetary\\Index.cshtml",
+              "RelativeToolTip": "EjercicioNasaConsumoAPIsRest\\Views\\Planetary\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T16:30:11.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
